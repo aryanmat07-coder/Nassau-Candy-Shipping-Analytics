@@ -5,6 +5,9 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Dashboard](Dashboard.png)
 
+## 🌐 Live Demo
+https://nasau-candy-distributor-dashboard.streamlit.app/
+
 ## 📌 Project Overview
 
 The Nassau Candy Shipping Analytics Dashboard is an interactive Business Intelligence dashboard developed using Streamlit, Python, Pandas, and Plotly.
