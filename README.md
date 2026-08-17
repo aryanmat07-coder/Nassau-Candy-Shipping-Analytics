@@ -186,7 +186,7 @@ GitHub:
 https://github.com/aryanmat07-coder
 
 LinkedIn:
-https://www.linkedin.com/in/shivansh-mathur/
+https://www.linkedin.com/in/shivansh-mathur-9a907236a/
 
 ---
 
